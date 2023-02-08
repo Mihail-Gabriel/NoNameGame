@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="470a1834-b795-4925-b0fe-113ccd06853f" name="Changes" comment="Package Structure + File Renames">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="470a1834-b795-4925-b0fe-113ccd06853f" name="Changes" comment="Proper commit of the package structure this time around">
+      <change afterPath="$PROJECT_DIR$/src/Race/Human/Buildings/Assets/Dummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Race/Lizards/Buildings/Assets/Dummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Race/Pig_Men/Buildings/Assets/Dummy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Idea Projects/NoNameGame/src/Race/Human/Leaders",
+    "last_opened_file_path": "C:/Idea Projects/NoNameGame/src/Race/Pig_Men/Buildings",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +48,22 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Idea Projects\NoNameGame\src\Race\Pig_Men\Buildings" />
+      <recent name="C:\Idea Projects\NoNameGame\src\Race\Lizards\Buildings" />
+      <recent name="C:\Idea Projects\NoNameGame\src\Race\Human\Buildings" />
+      <recent name="C:\Idea Projects\NoNameGame\src\Race\Human\Leaders" />
+      <recent name="C:\Idea Projects\NoNameGame\src\Race\Human\Units" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Race.Pig_Men.Upgrades.Dummy" />
+      <recent name="Race.Pig_Men.Upgrades.Assets" />
+      <recent name="Race.Pig_Men.Units.Dummy" />
+      <recent name="Race.Pig_Men.Units.Assets" />
+      <recent name="Race.Pig_Men.Leaders.Dummy" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675854041308</updated>
-      <workItem from="1675854042905" duration="1881000" />
+      <workItem from="1675854042905" duration="2228000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1675854119314</created>
@@ -70,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675855644336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Package Structure + File Renames Part 2">
+      <created>1675856187881</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675856187881</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Proper commit of the package structure this time around">
+      <created>1675856347142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675856347142</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Package Structure + File Renames" />
-    <option name="LAST_COMMIT_MESSAGE" value="Package Structure + File Renames" />
+    <MESSAGE value="Package Structure + File Renames Part 2" />
+    <MESSAGE value="Proper commit of the package structure this time around" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proper commit of the package structure this time around" />
   </component>
 </project>
